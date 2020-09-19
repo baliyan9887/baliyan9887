@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning AI, ML and Blockchain
+- 💬 Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 📫 How to reach me: [@gautamkrishnar](https://twitter.com/gautamkrishnar)
+- ⚡ Fun fact: I :heart: :dog:s
 
 <!--
 **baliyan9887/baliyan9887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
