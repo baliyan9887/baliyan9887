@@ -1,8 +1,8 @@
-### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,there</h1>
 This is the place where I opensource stuff and break things :rofl:
-
-
-<h1 align="center">Hi 👋, I'm Gautam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **gk_on_web**
@@ -26,6 +26,8 @@ This is the place where I opensource stuff and break things :rofl:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baliyan9887&layout=compact" alt="baliyan9887" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baliyan9887&show_icons=true" alt="baliyan9887" /></p>
+
+
 
 <p align="center">
 <a href="https://codepen.io/@baliyan9887" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@baliyan9887" height="30" width="30" /></a>
