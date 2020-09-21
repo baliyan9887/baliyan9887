@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning React advance, it's framwork compatiablity, and AWS core policies 
 - 💬 Ask me about anything related to Javascript/Typescript or React/Gatsby/AWS
 - 📫 How to reach me: [@baliyangk](https://instagram.com/baliyangk)
-- ⚡ Fun fact: I :heart: :dog:s
+
 
 <!--
 **baliyan9887/baliyan9887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
