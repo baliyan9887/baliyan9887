@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
-<img  src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
+
 
 
 - 🔭 I’m currently working on something cool :wink:
