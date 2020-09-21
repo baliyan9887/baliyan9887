@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Javascript/Typescript or React/Gatsby/AWS
 - 📫 How to reach me: [@baliyangk](https://instagram.com/baliyangk)
 
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/egoist-github-readme)
+![Visitor Count](https://profile-counter.glitch.me/baliyan9887/count.svg)
 
 
 <!--
