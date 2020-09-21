@@ -20,7 +20,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baliyan9887" alt="baliyan9887" />visitors </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baliyan9887" alt="baliyan9887" /> </p>
 
 <!--
 **baliyan9887/baliyan9887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
