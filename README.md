@@ -34,7 +34,6 @@ This is the place where I opensource stuff and break things :rofl:
 <br/>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baliyan9887&layout=compact" alt="baliyan9887" /></p>
-<h6>Stats</h6>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baliyan9887&show_icons=true" alt="baliyan9887" /></p>
 
 <br />
