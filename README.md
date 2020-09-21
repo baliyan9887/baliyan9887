@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [@baliyangk](https://instagram.com/baliyangk)
 
 ![Visitor Count](https://profile-counter.glitch.me/baliyan9887/count.svg)
-[![Visits Badge](https://badges.pufler.dev/visits/jdromero88/jdromero88)]
+![Visits Badge](https://badges.pufler.dev/visits/baliyan9887/baliyan9887)
 
 
 <!--
