@@ -8,6 +8,8 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Javascript/Typescript or React/Gatsby/AWS
 - 📫 How to reach me: [@baliyangk](https://instagram.com/baliyangk)
 
+![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/egoist-github-readme)
+
 
 <!--
 **baliyan9887/baliyan9887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
