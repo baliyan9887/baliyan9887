@@ -6,7 +6,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on **gk_on_web**
 
-- 🌱 I’m currently learning **AWS DevOps and AWS Policies**
+- 🌱 I’m currently learning **AWS DevOps, AWS Policies and AWS Lambda triggers**
 
 - 👯 I’m looking to collaborate on **open source**
 
