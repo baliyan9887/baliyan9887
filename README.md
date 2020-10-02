@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 <br/>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **gk_on_web**
+- 🔭 I’m currently working on **gk_on_web && React Cool Stuff**
 
 - 🌱 I’m currently learning **AWS DevOps, AWS Policies and AWS Lambda triggers**
 
