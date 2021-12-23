@@ -36,6 +36,9 @@ This is the place where I opensource stuff and break things :rofl:
 <a href="https://stackoverflow.com/users/8599216" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8599216" height="30" width="30" /></a>
 <a href="https://instagram.com/baliyangk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baliyangk" height="30" width="30" /></a>
 <a href="https://medium.com/@gk150899" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gk150899" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-baliyan-28345a163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-baliyan-28345a163/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/baliyangk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/baliyangk/" height="30" width="40" /></a>
+<a href="https://discord.gg/f4C3DK6K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f4C3DK6K" height="30" width="40" /></a>
 </p>
 
 
