@@ -30,13 +30,9 @@ This is the place where I opensource stuff and break things :rofl:
 <br />
 
 <p align="center">
-<a href="https://codepen.io/baliyan9887" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@baliyan9887" height="30" width="30" /></a>
-<a href="https://twitter.com/@gautambaliyanx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@gautambaliyanx" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gautam-baliyan-28345a163" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gautambaliyanx" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8599216" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8599216" height="30" width="30" /></a>
-<a href="https://instagram.com/baliyangk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="baliyangk" height="30" width="30" /></a>
-<a href="https://medium.com/@gk150899" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gk150899" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-baliyan-28345a163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-baliyan-28345a163/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/gautambaliyanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gautambaliyanx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gautam-baliyan-28345a163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gautam-baliyan-28345a163/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/specularx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/specularx" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/baliyangk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/baliyangk/" height="30" width="40" /></a>
 <a href="https://discord.gg/f4C3DK6K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="f4C3DK6K" height="30" width="40" /></a>
 </p>
